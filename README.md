@@ -1,2 +1,2 @@
 # struphy
-STRUcture-Peserving HYbrid codes
+STRUcture-Peserving HYbrid codes.
